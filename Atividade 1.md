@@ -18,3 +18,9 @@ Nessa atividade o aluno deve:
 
  
      3 - Criar a imagem e rodar no dispositivo um novo produto, com as configurações do dispositivo Google Pixel 5a, realizando o flashing do Pixel 5a.
+     
+     ![image](https://user-images.githubusercontent.com/75500077/234724677-df66d1e5-8733-41d6-9d8c-958b52eb8ddf.png)
+
+     
+     ![image](https://user-images.githubusercontent.com/75500077/234724636-e2bc04d5-71bb-4ad0-87ce-54ce70fcfd5b.png)
+
